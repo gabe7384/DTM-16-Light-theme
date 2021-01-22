@@ -16,6 +16,6 @@ Issues(Going to be fixed soon)
 
 ![Preview](https://cdn.discordapp.com/attachments/799401301673902090/802276316690513980/Screenshot_101.png)
 
-**Hover and seleted parts here are for some reason gray**
+**Hover and selected parts here are for some reason gray**
 
 ![Preview](https://cdn.discordapp.com/attachments/799401301673902090/802276595216678974/Screenshot_103.png)
