@@ -177,3 +177,6 @@
 .username-3gJmXY {
     color: #000;
 }
+.actionButton-uPB8Fs {
+    color: #7289da !important;
+}
