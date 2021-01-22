@@ -1,6 +1,8 @@
 # DTM-16-Light-theme
 Another version of light theme for DTM16
 
+[Benny](https://github.com/ilyBenny) too slow :)
+
 **Need to use Light mode with Dark Sidebar on**
 
 Preview(Known issues going to be fixed soon)
