@@ -1,4 +1,6 @@
 # DTM-16-Light-theme
+Outdated
+
 Another version of light theme for DTM16
 
 [Benny](https://github.com/ilyBenny) too slow :)
