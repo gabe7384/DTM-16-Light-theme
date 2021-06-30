@@ -12,7 +12,7 @@ Preview(Known issues going to be fixed soon)
 ![Preview](https://cdn.discordapp.com/attachments/799401301673902090/802276090302562394/Screenshot_100.png)
 ![Preview](https://cdn.discordapp.com/attachments/799401301673902090/802276179859210240/Screenshot_102.png)
 
-Issues(Going to be fixed soon)
+Issues
 
 **Server name is hard to read**
 
